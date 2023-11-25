@@ -1,4 +1,4 @@
 # repo-demo
 this is my first repository
-<hr>
+<br>
 author - ravi mishra
